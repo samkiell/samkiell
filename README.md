@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated terminal banner -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=7EE787&center=true&vCenter=true&width=600&lines=SAMKIEL;Digitalizing+The+World;Full-Stack+Engineer;AI+Builder+%7C+Community+Lead" alt="SAMKIEL" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=7EE787&center=true&vCenter=true&width=600&lines=SAMKIEL;Software+With+Intention!;Full-Stack+Engineer;AI+Builder+%7C+Community+Lead" alt="SAMKIEL" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=%23+200L+Software+Engineering+%40+OAU+Ile-Ife;Lead+Frontend+Engineer+%40+Axile.ng;Founder+%40+SAMKIEL+%E2%80%A2+Apps+%7C+Agency+%7C+Studio;D3V%2B%2B+Community+Lead+%40+OAU" alt="subtitle" />
 
