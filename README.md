@@ -3,7 +3,7 @@
 <!-- Animated terminal banner -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=7EE787&center=true&vCenter=true&width=600&lines=SAMKIEL;Software+With+Intention!;Full-Stack+Engineer;AI+Builder+%7C+Community+Lead" alt="SAMKIEL" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=%23+200L+Software+Engineering+%40+OAU+Ile-Ife;Lead+Frontend+Engineer+%40+Axile.ng;Founder+%40+SAMKIEL+%E2%80%A2+Apps+%7C+Agency+%7C+Studio;D3V%2B%2B+Community+Lead+%40+OAU" alt="subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=%23+Software+Engineering+%40+OAU+Ile-Ife;Lead+Frontend+Engineer+%40+Axile.ng;Founder+%40+SAMKIEL+%E2%80%A2+Apps+%7C+Agency+%7C+Studio;D3V%2B%2B+Community+Lead+%40+OAU" alt="subtitle" />
 
 <br/>
 
@@ -12,8 +12,7 @@
 [![X](https://img.shields.io/badge/@samkiel__dev-0d1117?style=for-the-badge&logo=x&logoColor=c9d1d9)](https://x.com/samkiel_dev)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=f778ba)](https://instagram.com/samkieldev)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=7ee787)](https://wa.me/+2348087357178)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ffa657)](mailto:samkiel.dev@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ffa657)](mailto:hello@samkiel.dev
 </div>
 
 ---
@@ -23,7 +22,7 @@
 ```
 
 ```js
-// 200L Software Engineering Student, OAU Ile-Ife
+// Software Engineering Student, OAU Ile-Ife
 const samkiel = {
   name:      "Samuel Ezekiel",
   alias:     "SAMKIEL",
@@ -31,7 +30,7 @@ const samkiel = {
   company:   "SAMKIEL • Apps | Agency | Studio",
   community: "Founder, D3V++ — OAU Developer Community",
   location:  "Osun State, Nigeria 🇳🇬",
-  building:  ["Cortexa AI", "Axile.ng", "SAMKIEL-AI Bot", "Studio Product v1"],
+  building:  ["Cortexa AI", "kiv", "SAMKIEL-AI Bot", "Studio Product v1"],
   learning:  ["Cloud computing", "ML integration", "Backend optimization"],
   funFact:   "I turn late-night debugging sessions into clean, shipped code.",
 };
@@ -46,7 +45,7 @@ const samkiel = {
 | Project | Description | Status |
 |---|---|---|
 | 🌐 **[Cortexa AI](https://cortexa.samkiel.dev)** | Next.js AI chat platform with 5 curated uncensored/vision models, Tavily search, Resend emails | `live` |
-| 🎫 **[Axile.ng](https://axile.ng)** | Live event ticketing platform with referral system and coupon features | `live` |
+| 🎫 **[kiv](https://kiv.samkiel.tech)** | A minimal journalling app | `beta` |
 | 👾 **SAMKIEL-AI Bot** | Baileys-based WhatsApp AI bot with multi-command, context-aware responses | `active` |
 | 🏢 **SAMKIEL Studio** | First Studio vertical product under SAMKIEL company | `in dev` |
 | 👥 **D3V++ Platform** | Web + app community platform for OAU developers | `building` |
@@ -68,7 +67,7 @@ const samkiel = {
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=7ee787)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=bc8cff)
+![Hono](https://img.shields.io/badge/Hono-0d1117?style=flat-square&logo=php&logoColor=bc8cff)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=ffa657)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ffa657)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=58a6ff)
@@ -151,9 +150,9 @@ const samkiel = {
 > Building the next wave of digital products from Nigeria.
 > If you're working on something interesting — let's talk.
 
-[![Hire me](https://img.shields.io/badge/Hire_me-0d1117?style=for-the-badge&logo=handshake&logoColor=7ee787)](mailto:samkiel.dev@gmail.com)
+[![Hire me](https://img.shields.io/badge/Hire_me-0d1117?style=for-the-badge&logo=handshake&logoColor=7ee787)](https://www.samkiel.dev/#contact)
 [![Dev Funding](https://img.shields.io/badge/Support_a_Dev-0d1117?style=for-the-badge&logo=buymeacoffee&logoColor=ffa657)](https://buymeacoffee.com/samkiel)
-[![D3V++ Community](https://img.shields.io/badge/Join_D3V++-0d1117?style=for-the-badge&logo=discord&logoColor=bc8cff)](https://devspace.ct.ws)
+[![Blog](https://img.shields.io/badge/Blog-0d1117?style=for-the-badge&logo=discord&logoColor=bc8cff)](https://blog.samkiel.dev)
 
 ---
 
@@ -164,30 +163,3 @@ const samkiel = {
 ![Profile Views](https://komarev.com/ghpvc/?username=samkiell&label=profile+views&color=7ee787&style=flat)
 
 </div>
-
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=samkiell&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=samkiell&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samkiell&theme=dark&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=samkiell&theme=ocean_dark&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-### ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 💰 Support My Work  
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/samkiel)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/samkiel)
-
----
----
----
-
-## ![Profile Views](https://komarev.com/ghpvc/?username=samkiell&label=Profile%20Views&color=0e75b6&style=flat)
