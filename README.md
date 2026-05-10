@@ -12,7 +12,7 @@
 [![X](https://img.shields.io/badge/@samkiel__dev-0d1117?style=for-the-badge&logo=x&logoColor=c9d1d9)](https://x.com/samkiel_dev)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=f778ba)](https://instagram.com/samkieldev)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=7ee787)](https://wa.me/+2348087357178)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ffa657)](mailto:hello@samkiel.dev
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ffa657)](mailto:hello@samkiel.dev)
 </div>
 
 ---
