@@ -108,9 +108,10 @@ const samkiel = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=samkiell&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samkiell&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&layout=compact" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=samkiell&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=86400" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samkiell&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&layout=compact&cache_seconds=86400" />
 
+<img width="100%" src="https://streak-stats.demolab.com/?user=samkiell&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=7ee787&fire=ffa657&currStreakLabel=7ee787&sideLabels=8b949e&dates=8b949e" />
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=samkiell&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=7ee787&fire=ffa657&currStreakLabel=7ee787&sideLabels=8b949e&dates=8b949e" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=samkiell&bg_color=0d1117&color=58a6ff&line=7ee787&point=ffa657&area=true&hide_border=true&area_color=1a3a1a" />
