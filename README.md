@@ -9,7 +9,7 @@
 
 [![Website](https://img.shields.io/badge/samkiel.dev-0d1117?style=for-the-badge&logo=About.me&logoColor=7ee787)](https://samkiel.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/samkiell)
-[![X](https://img.shields.io/badge/@samkiel__dev-0d1117?style=for-the-badge&logo=x&logoColor=c9d1d9)](https://x.com/samkiel_dev)
+[![X](https://img.shields.io/badge/@samkieldev-0d1117?style=for-the-badge&logo=x&logoColor=c9d1d9)](https://x.com/samkieldev)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=f778ba)](https://instagram.com/samkieldev)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ffa657)](mailto:hello@samkiel.dev)
 </div>
